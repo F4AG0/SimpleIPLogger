@@ -1,2 +1,2 @@
 # SimpleIPLogger
-simple iplogger designed for discord webhook written with skid
+simple iplogger designed for discord webhook
